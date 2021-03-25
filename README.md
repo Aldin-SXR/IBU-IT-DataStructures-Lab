@@ -15,6 +15,10 @@
 - [Recording](https://drive.google.com/drive/u/1/folders/19SqRfIzqafMLPwhIbdvpvyOqIl37wT2v)
 - [Homework 3: Bubble Sort & Binary Search on Complex Data](https://docs.google.com/document/d/1VZ7svG3zkEK_XMXKkmvViL31wEIBgtGszOG7syOhB3E/edit?usp=sharing)
 
+## Week 4 - Elementary Sorting Algorithms
+- [Lab document](https://docs.google.com/document/d/1yTXd7MUfFuoS4U5fYFc5MRwNjG9YpKajOriPisLzdvw/edit?usp=sharing)
+- [Recording](https://drive.google.com/drive/folders/13NCW4ziknA_NkUsdJUxyj92RTapYaLoq?usp=sharing)
+- [Homework 4: Elementary Sorts on Complex Data](https://docs.google.com/document/d/1Mz-zd9_tyefc2uOOc-EK63W2XVGzN7eh4iwK0sdGDRo/edit?usp=sharing)
 
 ---
 > Aldin Kovačević,
