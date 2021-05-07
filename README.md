@@ -30,7 +30,18 @@
 - [Recording](https://drive.google.com/drive/folders/1nIBD6CFuCSRSgUnVS688K6Z4WzYgJXBB?usp=sharing)
 - [Homework 6: Quick Sort on Complex Data](https://docs.google.com/document/d/1cFwI1yX416kZXEZOK3DRRsoxpJf6uPBMGxJi9NNWHQg/edit?usp=sharing)
 
+## Week 7 - Homework Defense
 
+## Week 8 - Midterm Exam
+
+## Week 9 - Midterm Exam Review
+- [Review document](https://docs.google.com/document/d/1hVnUMlhKVJk7w5dnhNvrYRuCRGZIO_Bs9RvAWZikMkU/edit?usp=sharing)
+- [Recording](https://drive.google.com/file/d/1JGFZ7hyHfXzc7l5i0SbxVthhFZVAfOkM/view?usp=sharing)
+
+## Week 10 - Radix Sort
+- [Lab document](https://docs.google.com/document/d/14uJ0wKYbfopDu0hQwUlDbP5VXo0UsKtjEt0zDrNwdT8/edit?usp=sharing)
+- [Recording](https://drive.google.com/drive/folders/1wS35TrHrHp1E4VyZWDpG6tQGmAJDBKuQ?usp=sharing)
+- [Homework 7: Radix Sort on Complex Data](https://docs.google.com/document/d/1jE6yCIirvA_0sCZKricVRZPNSQusAhzz0QJ0EYJsZ3s/edit?usp=sharing)
 ---
 > Aldin Kovačević,
 > 
