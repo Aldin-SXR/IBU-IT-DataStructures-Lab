@@ -42,6 +42,12 @@
 - [Lab document](https://docs.google.com/document/d/14uJ0wKYbfopDu0hQwUlDbP5VXo0UsKtjEt0zDrNwdT8/edit?usp=sharing)
 - [Recording](https://drive.google.com/drive/folders/1wS35TrHrHp1E4VyZWDpG6tQGmAJDBKuQ?usp=sharing)
 - [Homework 7: Radix Sort on Complex Data](https://docs.google.com/document/d/1jE6yCIirvA_0sCZKricVRZPNSQusAhzz0QJ0EYJsZ3s/edit?usp=sharing)
+
+## Week 11 - Binary Heap
+- [Lab document](https://docs.google.com/document/d/1zCh_t1Dy7BidEIBkZhNKgbAzYJjipNuxYZV4WR1E8ME/edit?usp=sharing)
+- [Recording](https://drive.google.com/drive/folders/1-IsW0gU5KCYrbcdBuAo3uRv4OrCyYuTi?usp=sharing)
+- [Homework 8: Heap Sort on Complex Data](https://docs.google.com/document/d/12FXgpZIXYgvrBEZVrD6c3zXmtpdUK-DlTNhXcRRSyWw/edit?usp=sharing)
+  
 ---
 > Aldin Kovačević,
 > 
