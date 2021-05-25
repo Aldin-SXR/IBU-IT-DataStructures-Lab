@@ -47,6 +47,10 @@
 - [Lab document](https://docs.google.com/document/d/1zCh_t1Dy7BidEIBkZhNKgbAzYJjipNuxYZV4WR1E8ME/edit?usp=sharing)
 - [Recording](https://drive.google.com/drive/folders/1-IsW0gU5KCYrbcdBuAo3uRv4OrCyYuTi?usp=sharing)
 - [Homework 8: Heap Sort on Complex Data](https://docs.google.com/document/d/12FXgpZIXYgvrBEZVrD6c3zXmtpdUK-DlTNhXcRRSyWw/edit?usp=sharing)
+
+## Week 12 - Binary Search Tree
+- [Lab document](https://docs.google.com/document/d/1x_UaN-1sGlqJVpuIfMwEZGRDoume15YQRqEaszfj7-E/edit?usp=sharing)
+- [Recording](https://drive.google.com/drive/folders/1ZAOIEjaPN9AypHeYsBPfMQknSuE9aDjp?usp=sharing)
   
 ---
 > Aldin Kovačević,
