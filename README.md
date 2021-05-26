@@ -51,7 +51,12 @@
 ## Week 12 - Binary Search Tree
 - [Lab document](https://docs.google.com/document/d/1x_UaN-1sGlqJVpuIfMwEZGRDoume15YQRqEaszfj7-E/edit?usp=sharing)
 - [Recording](https://drive.google.com/drive/folders/1ZAOIEjaPN9AypHeYsBPfMQknSuE9aDjp?usp=sharing)
-  
+
+## Week 13 - Balanced Search Trees
+- [Lab document](https://docs.google.com/document/d/1It1PhpYIDytCeqoC2EzEeOjrQ8zNB8VSzVQOWSux_Tk/edit?usp=sharing)
+- [Recording](https://drive.google.com/drive/folders/1Ew1J4tSW-vovEB_cBp1VNPPaAQUGVTU4?usp=sharing)
+- [Homework 9: Search Trees with Practical Data](https://docs.google.com/document/d/1frSlUNzaclWyKDgZ06ylsvpoecnjBZ351g5gDtk-oYY/edit?usp=sharing)
+
 ---
 > Aldin Kovačević,
 > 
